@@ -14,3 +14,17 @@ mask your google meet links
 ## Demo 🍿
 
 ![demo](./demo.gif)
+
+---
+
+## Inspired By ✨
+
+https://github.com/plxity/Deny-Google-meet-entry
+
+---
+
+## Made with ♥️ for
+
+Samay, Tanmay, GamerFleet and Nishant!
+
+---
